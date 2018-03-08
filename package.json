@@ -1,6 +1,6 @@
 {
   "name": "@fav/type.to-number",
-  "version": "1.0.1",
+  "version": "0.1.0",
   "description": "Convert a number or a string to a number.",
   "main": "index.js",
   "files": [
